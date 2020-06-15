@@ -26,7 +26,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-![Image](https://en.wikipedia.org/wiki/File:Om_symbol.svg)
+![Image](https://upload.wikimedia.org/wikipedia/commons/b/b7/Om_symbol.svg)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
