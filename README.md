@@ -1,4 +1,6 @@
-
+---
+layout: page
+---
 # Welcome to GitHub Pages
 
 Click on this [link](https://github.com/gitblog-sdharma/sdharma/test/First.html)
