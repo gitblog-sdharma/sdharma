@@ -1,13 +1,11 @@
 theme: minima
 description: >- # this means to ignore newlines until "baseurl:"
-        Write an awesome description for your new site here. 
-        You can edit this line in _config.yml. 
-        It will appear in your document head meta (for Google search results) and in your feed.xml site description.    
+      A repository for assimilating knowledge of various aspects of Sanatan Dharma
+      with the aim of refining and converging on factual information and developing 
+      authentic interpretations.
 header_pages:
     - about.md
     - yourideas.md
-
-
 minima:
     skin: dark
     
