@@ -3,7 +3,7 @@ minima:
     skin: dark
 
 header_pages:
- - about.md
+    - about.md
 
 layout: home
 
