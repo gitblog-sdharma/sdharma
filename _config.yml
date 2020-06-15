@@ -4,6 +4,8 @@ minima:
 
 header_pages:
     - about.md
+    - yourideas.md
+
 
 layout: home
 
