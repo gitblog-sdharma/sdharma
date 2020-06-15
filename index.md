@@ -5,22 +5,22 @@
 layout: home
 ---
 
-##### Table of Contents  
+# Table of Contents  
 [Headers](#header1)  
 [Emphasis](#emphasis)  
 <a name="headers"/>
 
-## Headers
+# Headers
 sadasd
 
-###This is a heading
+##This is a heading
 
 Click on this [link](https://github.com/gitblog-sdharma/sdharma/test/First.html)
 You can use the [editor on GitHub](https://github.com/gitblog-sdharma/sdharma/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
