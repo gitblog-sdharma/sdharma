@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+---
+layout: default
+title: Blog
+---
+
+# Welcome to GitHub Pages
 
 Click on this [link](https://github.com/gitblog-sdharma/sdharma/blob/master/First.md)
 You can use the [editor on GitHub](https://github.com/gitblog-sdharma/sdharma/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
