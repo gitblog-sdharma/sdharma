@@ -1,6 +1,3 @@
----
-layout: page
----
 
 Click on this [link](https://github.com/gitblog-sdharma/sdharma/test/First.html)
 You can use the [editor on GitHub](https://github.com/gitblog-sdharma/sdharma/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
